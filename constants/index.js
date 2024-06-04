@@ -1,0 +1,1 @@
+module.exports.dataBaseTablesEnum = require('./database-tables.enum');
